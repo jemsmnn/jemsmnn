@@ -1,6 +1,4 @@
 
-<br/>
-
 <h3>
   <b> University of Auckland : BSc/BCom - Computer Science & Management </b> 
 </h3>
