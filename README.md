@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" width="500"/>
+  <img src="assets/banner2.jpg" width="650"/>
 </p>
 <h3>
   <b> University of Auckland : BSc/BCom - Computer Science & Management </b> 
@@ -19,4 +19,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jemsmnn/jemsmnn/output/pacman-contribution-graph.svg">
 </picture>
 
-###
