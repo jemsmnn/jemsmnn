@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner.jpg" width="500"/>
+</p>
 <h3>
   <b> University of Auckland : BSc/BCom - Computer Science & Management </b> 
 </h3>
