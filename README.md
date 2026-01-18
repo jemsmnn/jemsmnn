@@ -1,3 +1,12 @@
+<div style="width:100%; height:180px; overflow:hidden; border-radius:14px;">
+  <img 
+    src="https://media1.tenor.com/m/NkqanKk4XmYAAAAC/йцу.gif" 
+    style="width:100%; height:100%; object-fit:cover;"
+  />
+</div>
+
+<br/>
+
 <h3>
   <b> University of Auckland : BSc/BCom - Computer Science & Management </b> 
 </h3>
