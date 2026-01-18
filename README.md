@@ -1,4 +1,6 @@
-University of Auckland : BSc/BCom - Computer Science & Management
+<b> University of Auckland : BSc/BCom - Computer Science & Management </b> 
+  
+<b>  </>
 
 💌 jana147@aucklanduni.ac.nz
 
